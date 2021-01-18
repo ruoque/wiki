@@ -1,4 +1,4 @@
-# RemNote中文社区
+# RemNote中文社区/帮助文档
 ## 👋 欢迎！
 
 ### [点击这里进入中文帮助文档-Wiki](https://github.com/remnotezh/wiki/wiki)
